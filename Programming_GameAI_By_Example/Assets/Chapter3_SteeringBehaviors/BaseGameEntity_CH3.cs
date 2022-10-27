@@ -21,7 +21,7 @@ public class BaseGameEntity_CH3 : MonoBehaviour
     public float BRadius() { return boundingRadius; }
     public void SetBRadius(float r) { boundingRadius = r; }
 
-    public int ID() { return id; }
+    public int Id() { return id; }
     public void SetID(int n) { id = n; }
     public void Tag() { _tag = true; }
     public void UnTag() { _tag = false; }
