@@ -1,5 +1,7 @@
-Programming Game AI by Example - C# & Unity Engine(2018.3.0.f2)
+Programming Game AI by Example - C# & Unity Engine(2020.3.39)
 ==========================
+* This is a fork from another project made for learning purposes. 
+-------------------------------------------------------
 * For Usage of code and Unity Engine for this project in detail, please visit **"WIKI"**.
 -------------------------------------------------------
 * This repos covers [ https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782 ] .
