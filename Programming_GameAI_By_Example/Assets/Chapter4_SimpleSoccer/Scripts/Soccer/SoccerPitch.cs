@@ -54,7 +54,7 @@ public class SoccerPitch : MonoBehaviour
     }
 
     public bool Inside(Vector2 v)
-    {
+    {   //TODO AAVG: dont leave limits with fixed value , create map limits
         if (v.x >= -25f && v.x <= 25f && v.y <=9.3f && v.y >= 9.3f)
         {
             return true;

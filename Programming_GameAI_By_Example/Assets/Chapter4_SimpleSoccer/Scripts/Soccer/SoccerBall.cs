@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//TODO AAVG: No friction applied
+
 public class SoccerBall : MovingEntity_CH4
 {
     [SerializeField]
